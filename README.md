@@ -51,5 +51,8 @@ Criar uma aplicação de lista de tarefas que permita ao usuário:
 4 - Pagina de Redifinir Senha
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/49291f91-25fa-4c58-85b0-bcf87d263dc5" />
 
-5 - Pagina de Sobre Nós
-<img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/7ad47d62-3260-4fcd-aa41-f5fe0f177ae9" />
+5 - Umas das Paginas Principais
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/57e94b65-250a-46c5-badb-3ab0c9f0fb89" />
+
+6 - Pagina de Sobre Nós
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/15b61493-7bd3-4e8e-921e-3f44f3459740" />
