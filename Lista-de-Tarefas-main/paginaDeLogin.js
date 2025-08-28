@@ -17,4 +17,5 @@ document.getElementById("loginForm").addEventListener("submit", function(event) 
 document.getElementById("cadastrarLink").addEventListener("click", function(event) {
   event.preventDefault();  
   window.location.href = "cadastro.html";  
-});
+
+});   
