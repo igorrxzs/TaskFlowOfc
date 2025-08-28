@@ -1,4 +1,4 @@
-<img width="1879" height="714" alt="image" src="https://github.com/user-attachments/assets/5cf0993a-eeb3-4983-84c8-f3c965a9428d" /><img width="1879" height="714" alt="image" src="https://github.com/user-attachments/assets/dc0b7d58-f47a-4354-9810-2239198ffe27" />🗂️ Lista-de-Tarefas - TaskFLow
+Lista-de-Tarefas - TaskFLow
 Uma aplicação web simples e funcional para gerenciamento de tarefas diárias, desenvolvida com HTML, CSS e JavaScript puro.
 
 🎯 Objetivo do Projeto:
