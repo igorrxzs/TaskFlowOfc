@@ -43,7 +43,7 @@ Criar uma aplicação de lista de tarefas que permita ao usuário:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/997b7fbd-53b2-4bae-a4b6-37e5181bcb8d" />
 
 2 - Pagina de Cadastro
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/997b7fbd-53b2-4bae-a4b6-37e5181bcb8d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6e9bf61d-e5fc-42a3-b5af-40ab411d3d7f" />
 
 3 - Pagina de Recuperação de Senha
 <img width="1920" height="1068" alt="image" src="https://github.com/user-attachments/assets/e2bdb65d-55d5-4cbc-bc62-834049f8f977" />
